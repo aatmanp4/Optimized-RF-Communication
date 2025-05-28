@@ -1,4 +1,3 @@
-# Optimized-RF-Communication
 # Optimized RF Data Transmission via Coupling Capacitance
 
 This project simulates a complete baseband-to-passband transmission of BPSK-modulated data over a capacitive-coupled channel with additive noise.
